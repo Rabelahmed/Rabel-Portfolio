@@ -1,4 +1,4 @@
-body{
+ibody{
     background-color: whitesmoke;
     border: 1px solid black;
     border-radius: 3px;
@@ -28,7 +28,7 @@ p{
 footer{
     display:flex;
     justify-content:space-between;
-    margin:0 1.25rem 0.625rem 0;
+    margin:0 1.25rem;
     object-fit:scale-down;
     
 }
